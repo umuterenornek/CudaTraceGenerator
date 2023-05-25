@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CudaTraceGenerator", "CudaTraceGenerator\CudaTraceGenerator.vcxproj", "{F1F06EEE-9F9A-4169-800E-526370EB2A3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1F06EEE-9F9A-4169-800E-526370EB2A3D}.Debug|x64.ActiveCfg = Debug|x64
+		{F1F06EEE-9F9A-4169-800E-526370EB2A3D}.Debug|x64.Build.0 = Debug|x64
+		{F1F06EEE-9F9A-4169-800E-526370EB2A3D}.Release|x64.ActiveCfg = Release|x64
+		{F1F06EEE-9F9A-4169-800E-526370EB2A3D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CA9CF73-0541-4B51-B51F-7B8F721EBB1B}
+	EndGlobalSection
+EndGlobal
